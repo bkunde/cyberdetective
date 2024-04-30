@@ -16,4 +16,4 @@ The Cyber Detective Text Adventure Game is an interactive game where players act
 ### Installation
 1. Clone this repository to your local machine.
    ```sh
-   git clone [https://github.com/bkunde/cyberdetective.git]
+   git clone https://github.com/bkunde/cyberdetective.git
